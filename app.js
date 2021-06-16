@@ -20,3 +20,16 @@
 
 // annuonce = "Welcome to Full-stack"
 // console.log(announce);
+
+const PI = 3.141521;
+
+const SCHOOL = "myway of IT School";
+const DB_SERVER = "192.168.11.22:5432/mydb";
+const PORT = 3000;
+
+// let myNum = 5;
+
+console.log(myNum);
+
+// mYnum = 8;
+console.log(myNum);
